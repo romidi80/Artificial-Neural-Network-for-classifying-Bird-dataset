@@ -1,4 +1,4 @@
-# Deep-neural-network-for-classifying-bird-Dataset-using-regularization-methods
+# Artificial-Neural-Network-for-classifying-bird-Dataset-using-regularization-methods
 Classifying birds dataset using neural network using different optimizers, activation functions.
 
 In this project, our focus was on developing and optimizing a neural network model for effectively classifying a birds dataset. Our approach encompassed a comprehensive exploration of various model configurations, including distinct optimizers, neuron arrangements, and activation functions.
